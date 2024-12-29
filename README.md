@@ -5,12 +5,7 @@
 
 </div>
 
-<div align="center">
-<a href="https://github.com/AkashElangovan/UnityScripts/actions/workflows/main.yml"><img src="https://github.com/AkashElangovan/UnityScripts/actions/workflows/main.yml/badge.svg" alt="Build Status"></a>
-<a href="https://codeclimate.com/github/AkashElangovan/UnityScripts"><img src="https://codeclimate.com/github/AkashElangovan/UnityScripts/badges/gpa.svg" alt="Code Climate GPA"></a>
-<a href="https://github.com/AkashElangovan/UnityScripts/issues"><img src="https://img.shields.io/github/issues/AkashElangovan/UnityScripts" alt="Issues"></a>
-<a href="https://github.com/AkashElangovan/UnityScripts/pulls"><img src="https://img.shields.io/github/issues-pr/AkashElangovan/UnityScripts" alt="Pull Requests"></a>
-</div>
+
 
 This repository contains a collection of basic Unity scripts intended for use as a sample context for LLMs. It provides a simple demonstration of common scripting tasks within the Unity engine. This allows you to test the capabilities of LLMs to analyze and answer questions based on the code provided.
 
